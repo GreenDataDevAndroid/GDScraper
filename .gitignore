@@ -1,0 +1,12 @@
+# Python temporäre Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Deine Scraper-Exporte (damit GitHub sauber bleibt)
+*.csv
+*.txt
+*.json
+
+# VS Code Einstellungen
+.vscode/
